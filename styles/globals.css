@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+    color: #C4C4C4;
+    background-color: #21242B;
+}
+
+* {
+    background-color: #21242B;
+}
+
+.bg-card {
+    background-color: #1A1D24;
+}
